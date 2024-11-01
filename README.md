@@ -513,3 +513,8 @@ That's why I decided to start a project of reading and summarizing two AI papers
 
 - Improved Protein Structure Prediction using Potentials from Deep Learning ([code](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13))
 - Highly Accurate Protein Structure Prediction with AlphaFold ([code](https://github.com/deepmind/alphafold))
+- 
+## Multimodal Retrieval Augmented Generation (RAG)
+
+- Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications ([code](https://github.com/riedlerm/multimodal_rag_for_industry))
+
