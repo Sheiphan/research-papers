@@ -11,7 +11,9 @@ That's why I decided to start a project of reading and summarizing two AI papers
 **LinkedIn: [Sheiphan Joseph | LinkedIn](https://www.linkedin.com/in/sheiphan-joseph-942a44133/)**
 
 </aside>
+
 ## Surveys
+
 - A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications ([link](https://arxiv.org/pdf/2402.07927))
 - A Survey of Large Language Models ([link](https://arxiv.org/pdf/2303.18223))
 - SMALL LANGUAGE MODELS: SURVEY, MEASUREMENTS, AND INSIGHTS ([link](https://arxiv.org/pdf/2409.15790v1))
