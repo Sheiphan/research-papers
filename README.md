@@ -11,6 +11,13 @@ That's why I decided to start a project of reading and summarizing two AI papers
 **LinkedIn: [Sheiphan Joseph | LinkedIn](https://www.linkedin.com/in/sheiphan-joseph-942a44133/)**
 
 </aside>
+## Surveys
+- A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications ([link](https://arxiv.org/pdf/2402.07927))
+- A Survey of Large Language Models ([link](https://arxiv.org/pdf/2303.18223))
+- SMALL LANGUAGE MODELS: SURVEY, MEASUREMENTS, AND INSIGHTS ([link](https://arxiv.org/pdf/2409.15790v1))
+- Datasets for Large Language Models: A Comprehensive Survey ([link](https://arxiv.org/pdf/2402.18041v1))
+- A Survey on LoRA of Large Language Model ([link](https://arxiv.org/pdf/2407.11046v4))
+- A Survey of Low-bit Large Language Models ([link](https://arxiv.org/pdf/2409.16694v2))
 
 ## Computer Vision; Image Classification; Large Networks
 
