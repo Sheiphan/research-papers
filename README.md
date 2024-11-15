@@ -20,6 +20,10 @@ That's why I decided to start a project of reading and summarizing two AI papers
 - Datasets for Large Language Models: A Comprehensive Survey ([link](https://arxiv.org/pdf/2402.18041v1))
 - A Survey on LoRA of Large Language Model ([link](https://arxiv.org/pdf/2407.11046v4))
 - A Survey of Low-bit Large Language Models ([link](https://arxiv.org/pdf/2409.16694v2))
+- Autoregressive Models in VisionL: A Survey ([link](https://arxiv.org/pdf/2411.05902v1))
+
+## Techniques/Methods
+- LOSS FUNCTIONS AND METRICS IN DEEP LEARNING ([link](https://arxiv.org/pdf/2307.02694))
 
 ## Computer Vision; Image Classification; Large Networks
 
